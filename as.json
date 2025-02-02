@@ -1,0 +1,39 @@
+{
+  "syllabusCovered": [
+    {
+      "exam_name": "Class 5",
+      "exam_code": "fa9TJ18tYibIVjIDXa8HobFmy_BZmQZB",
+      "exam_id": {
+        "$oid": "679f076154085ece07ad4cc2"
+      },
+      "subjects": [
+        {
+          "subject_name": "Class 5",
+          "subject_code": "548212",
+          "exam_subject_id": {
+            "$oid": "679f0c6954085ece07ad4f37"
+          },
+          "chapters": [
+            {
+              "chapter_name": "Class 5",
+              "chapter_code": "thEdnIy8WE6etaYkLzbT9JxkbSuK9L0v",
+              "exam_chapter_id": {
+                "$oid": "679ef3ede102922e2a1d6849"
+              },
+              "_id": {
+                "$oid": "679e59dead9c5dd8a8fcb3a5"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "679e59dead9c5dd8a8fcb3a4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "679e59dead9c5dd8a8fcb3a3"
+      }
+    }
+  ],
+  "__v": 0
+}
