@@ -1,0 +1,38 @@
+{
+  "syllabusCovered": [
+    {
+      "exam_name": "Class 6",
+      "exam_code": "fa9TJ18tYibIVjIDXa8HobFmy_BZmQZB",
+      "exam_id": {
+        "$oid": "679ef392e102922e2a1d6837"
+      },
+      "subjects": [
+        {
+          "subject_name": "Class 6",
+          "subject_code": "790539",
+          "exam_subject_id": {
+            "$oid": "679f0d3554085ece07ad4f5a"
+          },
+          "chapters": [
+            {
+              "chapter_name": "Class 6",
+              "chapter_code": "thEdnIy8WE6etaYkLzbT9JxkbSuK9L0v",
+              "exam_chapter_id": {
+                "$oid": "679ef3ede102922e2a1d6849"
+              },
+              "_id": {
+                "$oid": "679e59dead9c5dd8a8fcb3a5"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "679e59dead9c5dd8a8fcb3a4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "679e59dead9c5dd8a8fcb3a3"
+      }
+    }
+  ]
+}
